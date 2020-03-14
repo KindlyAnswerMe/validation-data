@@ -1,0 +1,5 @@
+﻿CVE,mitre
+CVE-2020-0614,"Exploitation for Defense Evasion,Exploitation for Privilege Escalation"
+CVE-2020-0613,"Exploitation for Defense Evasion,Exploitation for Privilege Escalation"
+CVE-2020-0611,"Exploitation for Defense Evasion,Exploitation of Remote Services,Install Root Certificate"
+CVE-2020-0610,"Exploitation for Defense Evasion,Exploitation of Remote Services"
